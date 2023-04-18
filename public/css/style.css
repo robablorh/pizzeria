@@ -1,0 +1,38 @@
+.navbar-wine {
+    background-color: #b32734!important;
+}
+.navnew {
+
+    color: white;
+    font-weight: bold;
+
+}
+
+.carousel-inner2 {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+}
+
+.aboutpizza {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.pizzatypes {
+    margin-bottom: 2rem;
+    margin-top:3rem ;
+}
+
+.footer{
+    background-color:#b32734 ;
+    padding:1.5rem 0 ;
+    color: white;
+
+}
+.footer p{
+    text-align: center;
+}
+
+
+
